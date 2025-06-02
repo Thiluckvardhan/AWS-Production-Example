@@ -47,7 +47,7 @@ This project demonstrates a real-world **AWS Production-grade VPC** setup using 
 - Setup an **Application Load Balancer (ALB)**
 - Security Group for ALB allows **inbound traffic on port 8000**
 
-![Target Group](images/5.png5.png)
+![Target Group](images/5.png)
 ![Load Balancer](images/6.png)
 
 ---
@@ -59,7 +59,7 @@ This project demonstrates a real-world **AWS Production-grade VPC** setup using 
 - ALB SG: Allows port 8000 from public
 - All routing and NAT Gateway configured properly
 
-![Security Groups](images/7.png7.png)
+![Security Groups](images/7.png)
 
 ---
 
